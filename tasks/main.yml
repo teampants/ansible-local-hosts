@@ -4,4 +4,3 @@
     module: lineinfile
     dest: /etc/hosts
     line: "{{ host_external_ip }} {{ inventory_hostname }}"
-  when: add_to_local_etc_hosts
