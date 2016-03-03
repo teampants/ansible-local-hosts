@@ -1,5 +1,5 @@
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
-[![Build Status](https://travis-ci.org/teampants/ansible-local-hosts.svg?branch=develop)](https://travis-ci.org/teampants/ansible-local-hosts)
+[![Build Status](https://travis-ci.org/teampants/ansible-local-hosts.svg?branch=master)](https://travis-ci.org/teampants/ansible-local-hosts)
 # ansible-local-hosts
 Adds hosts to local /etc/hosts file
 
