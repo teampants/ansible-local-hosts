@@ -3,6 +3,6 @@ galaxy_info:
   author: Eric Cassady (github@noteric.com)
   description: Add host to local /etc/hosts file
   license: Apache 2.0
-  min_ansible_version: 1.9.1
+  min_ansible_version: 2.0
 
 dependencies: []

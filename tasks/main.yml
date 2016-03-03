@@ -1,6 +1,6 @@
 ---
 - name: Add host to local /etc/hosts
-  local_action:
-    module: lineinfile
+  delegate_to: localhost
+  lineinfile:
     dest: /etc/hosts
     line: "{{ host_external_ip }} {{ inventory_hostname }}"
